@@ -1,2 +1,2 @@
-# U3-W3-D1
+Domande e risposte sul linguaggio TypeScript
 
