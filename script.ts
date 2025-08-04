@@ -68,14 +68,14 @@ let var1: number | null | undefined;
 
 // 9) Crea un tipo per rappresentare i giorni della settimana usando union di stringhe letterali.
 
-type daysWeek = string;
-let days1: daysWeek = "lunedi";
-let days2: daysWeek = "martedì";
-let days3: daysWeek = "mercoledì";
-let days4: daysWeek = "giovedì";
-let days5: daysWeek = "venerdi";
-let days6: daysWeek = "sabato";
-let days7: daysWeek = "domenica";
+type daysWeek =
+  | "Lunedì"
+  | "Martedì"
+  | "Mercoledì"
+  | "Giovedì"
+  | "Venerdì"
+  | "Sabato"
+  | "Domenica";
 
 // 10) Tipizza il seguente array di numeri nei due modi possibili:
 
