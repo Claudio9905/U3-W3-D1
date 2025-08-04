@@ -96,7 +96,7 @@ const myTuple: [string, string, string, number, number] = [
 
 // 12) Qual è la differenza tra type e interface?
 
-// Allora, "Type" viene usato proprio per creare dei tipi personalizzati a cui possiamo affidare alle varibili con il nome che gli diamo, mentr le "interface" serve principalmente per modellare gli oggetti al posto del TYPE ALIAS
+// Allora, "Type" viene usato proprio per creare dei tipi personalizzati a cui possiamo affidare alle varibili con il nome che gli diamo, mentre le "interface" serve principalmente per modellare gli oggetti al posto del TYPE ALIAS
 
 // 13) Definisci un'interfaccia in TypeScript per un oggetto dotato di proprietà "firstname", "lastname", e "age".
 
